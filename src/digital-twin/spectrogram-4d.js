@@ -2,7 +2,7 @@
  * Plasma Dream-Web — 4D Spectrogram Digital Twin
  * ================================================
  * 
- * WebGL2 point-cloud volume renderer for real-time plasma
+ * WebGL2 point-cloud volume's renderer for real-time plasma
  * spectral visualization with Bayesian coherence tracking.
  * 
  * Dimensions:
