@@ -1,7 +1,7 @@
 # SAFETY.md — Plasma Dream-Web Safety Protocol
 
 **Version:** 2.2
-**Date:** 19 April 2026
+**Date:** 19 April 2026 
 **Compliance:** Health Canada RIAQG, CSA C22.1:24
 
 ---
