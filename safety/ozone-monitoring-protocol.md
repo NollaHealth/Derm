@@ -1,7 +1,7 @@
 # Ozone Monitoring Protocol
 
 **Applicable to:** All atmospheric-pressure DBD prototypes (2, 4, 5, 6, 7)
-**Not required for:** Sealed argon systems at <10 Torr (Prototype 3)
+**Not required for:** Sealed argon systems at <10 Torr (Prototype 3) 
 
 ## Hardware
 
